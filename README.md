@@ -20,6 +20,11 @@ Implements **HNSW**, **KD-Tree**, and **Brute Force** search algorithms side-by-
 | **Full REST API** | CRUD endpoints: insert, delete, search, benchmark, hnsw-info |
 
 ---
+## 🎥 Demo
+
+![Demo GIF](Demo4.gif)
+
+---
 
 ## How It Works
 
